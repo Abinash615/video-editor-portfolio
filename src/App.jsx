@@ -164,7 +164,7 @@ function App() {
             <div className="video-container">
 
               <video
-                src="/videos/womens-day.mp4"
+                src="https://res.cloudinary.com/uwor2hz4/video/upload/f_mp4/womens-day.mp4"
                 controls
                 playsInline
                 preload="metadata"
@@ -189,7 +189,7 @@ function App() {
             <div className="video-container">
 
               <video
-                src="/videos/doctor-backpain.mp4"
+                src="https://res.cloudinary.com/uwor2hz4/video/upload/f_mp4/doctor-backpain-compressed.mp4"
                 controls
                 playsInline
                 preload="metadata"
@@ -214,7 +214,7 @@ function App() {
             <div className="video-container">
 
               <video
-                src="/videos/podcast.mp4"
+                src="https://res.cloudinary.com/uwor2hz4/video/upload/f_mp4/podcast.mp4"
                 controls
                 playsInline
                 preload="metadata"
@@ -239,7 +239,7 @@ function App() {
             <div className="video-container">
 
               <video
-                src="/videos/fitness.mp4"
+                src="https://res.cloudinary.com/uwor2hz4/video/upload/f_mp4/fitness-compressed.mp4"
                 controls
                 playsInline
                 preload="metadata"
